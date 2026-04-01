@@ -1,4 +1,4 @@
-# Lumen: Rapid Crisis Sync
+ # Rapid Crisis Sync
 
 ## Problem Statement
 Design a robust solution to instantly detect, report, and synchronize crisis response efforts across a decentralized hospitality ecosystem. Eliminate fragmented communication by creating a highly reliable bridge between distressed individuals, active personnel, and emergency services.
