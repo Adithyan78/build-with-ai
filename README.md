@@ -4,7 +4,7 @@
 Design a robust solution to instantly detect, report, and synchronize crisis response efforts across a decentralized hospitality ecosystem. Eliminate fragmented communication by creating a highly reliable bridge between distressed individuals, active personnel, and emergency services.
 
 ## Project Description
-Lumen is an AI-powered crisis synchronization platform that acts as a real-time "Digital Twin" of a facility to eliminate fragmented communication. When a guest triggers an SOS, Lumen analyzes the building's layout, available emergency resources (e.g., AEDs, extinguishers), and live staff locations. 
+This is an AI-powered crisis synchronization platform that acts as a real-time "Digital Twin" of a facility to eliminate fragmented communication. When a guest triggers an SOS, Lumen analyzes the building's layout, available emergency resources (e.g., AEDs, extinguishers), and live staff locations. 
 
 The system instantly triages the emergency , auto-dispatches the nearest qualified personnel. All of this is synchronized in sub-seconds to a live command dashboard, bridging the gap between a guest's panic and a coordinated, highly reliable staff response.
 
